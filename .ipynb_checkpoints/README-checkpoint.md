@@ -155,3 +155,11 @@ Créez un système complet d'analyse e-commerce qui :
 
 ---
 
+## 🎯 **STRATÉGIE RECOMMANDÉE**
+
+1. **Échauffement** : Commencez par Section 1 (★★★☆☆)
+2. **Montée en puissance** : Sections 2-3 (★★★★☆)
+3. **Expertise** : Sections 4-5 (★★★★★)
+4. **Fun & Challenge** : Section 6 + BOSS
+
+**Prêt(e) pour l'aventure ?** 🚀
